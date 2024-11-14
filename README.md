@@ -46,12 +46,14 @@ bookshelf-api/
 ├── .env                       # Environment variables
 ├── package.json               # Dependencies and scripts
 └── README.md                  # Project documentation
+```
 
-Getting Started
-Prerequisites
-Node.js (v16 or higher)
-MySQL (set up with required credentials)
-Installation
+## Getting Started
+**Prerequisites**
+- **Node.js** (v16 or higher)
+- **MySQL** (set up with required credentials)
+
+## Installation
 Clone the repository:
 
 bash
